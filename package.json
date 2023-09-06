@@ -1,6 +1,6 @@
 {
   "name": "@jbhammond/strapi-provider-upload-do",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DigitalOcean Spaces provider for Strapi upload plugin",
   "homepage": "http://strapi.io",
   "keywords": [
